@@ -1,0 +1,10 @@
+\defaultfontfeatures[Minion Pro]
+{
+Extension = .otf ,
+UprightFont = MinionPro-Regular,
+BoldFont = MinionPro-Bold,
+ItalicFont = MinionPro-It,
+BoldItalicFont = MinionPro-BoldIt,
+Numbers = OldStyle
+% <any other desired options>
+}
